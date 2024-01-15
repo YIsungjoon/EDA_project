@@ -16,7 +16,7 @@
   
 </details>
 ![Image](/EDA/EDA_1.jpg)
-<img src="EDA_Project/eda_1_fastcampus/EDA/EDA_1.jpg" alt="EDA_1" width="600">
+<img src="EDA/EDA_1.jpg" alt="EDA_1" width="600">
 <details>
   <summary><b>2. 전처리</b></summary>
   <!-- 내용 -->
