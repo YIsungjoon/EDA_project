@@ -13,9 +13,10 @@
 <details>
   <summary><b>1. 문제 정의</b></summary>
   <!-- 내용 -->
-  <img src="eda_1_fastcampus/EDA/EDA_1.jpg" alt="EDA_1" width="600">
+  
 </details>
 ![Image](/EDA/EDA_1.jpg)
+<img src="EDA_Project/eda_1_fastcampus/EDA/EDA_1.jpg" alt="EDA_1" width="600">
 <details>
   <summary><b>2. 전처리</b></summary>
   <!-- 내용 -->
