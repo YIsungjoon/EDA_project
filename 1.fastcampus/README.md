@@ -15,7 +15,7 @@
   <!-- 내용 -->
   
 </details>
-![My Image](EDA/EDA(1).jpg)
+![Image](EDA/EDA(1).jpg)
 <details>
   <summary><b>2. 전처리</b></summary>
   <!-- 내용 -->
