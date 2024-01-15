@@ -1,13 +1,15 @@
 # Fastcampus 상품 거래 1년 데이터 분석
 
 # 프로젝트 개요
-### 
+### 신규 강의 카테고리의 특징 및 수명주기 등을 파악해서 새로운 수요 창출을 하고자 함.
 
 # 기술스택
- <img src="https://img.shields.io/badge/Python#3776AB?style=flat&logo=python&logoColor=white"/>
-# 프로젝트 진행단계
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-19E57F) ![seaborn](https://img.shields.io/badge/seaborn-5B0BB5)
 
-# 프로젝트 세부 과정
+# 프로젝트 진행단계
+### 1. 문제 정의
+### 2. 전처리
+### 3. EDA
 
 # 프로젝트 결과
 
