@@ -10,6 +10,20 @@
 ### 1. 문제 정의
 ### 2. 전처리
 ### 3. EDA
+<details>
+  <summary><b>1. 문제 정의</b></summary>
+  <!-- 내용 -->
+</details>
+
+<details>
+  <summary><b>2. 전처리</b></summary>
+  <!-- 내용 -->
+</details>
+
+<details>
+  <summary><b>3. EDA</b></summary>
+  <!-- 내용 -->
+</details>
 
 # 프로젝트 결과
 
